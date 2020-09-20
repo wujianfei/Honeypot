@@ -1,0 +1,13 @@
+{
+  "name": "honeypot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/wujianfei/Honeypot.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wujianfei/Honeypot.git"
+  }
+}
