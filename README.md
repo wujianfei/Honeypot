@@ -3,10 +3,16 @@
 ```Honeypot``` 是一款用nodejs编写的快速搭建后端框架的服务，有高效，易上手特点，文档支持全中文。
 
 **开始上手**
-没有安装```npx```的请在全局环境安装```npx```(npx好处自己百度)
+
+**安装**
 ```
-npmx Honeypot-exmd create TestBackEnd
+npm i -g Honeypot-exmd
 ```
+**创建项目**
+```
+Honeypot-exmd create TestBackEnd
+```
+
 执行上面命令后会在当前目录下生成项目文件```TestBackEnd```
 **目录结构**
 ```
