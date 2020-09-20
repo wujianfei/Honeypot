@@ -1,6 +1,6 @@
 {
   "name": "honeypot-exmd",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "author": "",
@@ -11,7 +11,7 @@
     "url": "https://github.com/wujianfei/Honeypot.git"
   },
   "bin": {
-    "honeypot-exmd": "index.js"
+    "honeypot-exmd": "./index.js"
   },
   "dependencies": {
     "commander": "^6.1.0",
