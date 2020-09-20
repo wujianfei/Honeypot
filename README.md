@@ -5,7 +5,7 @@
 **开始上手**
 没有安装```npx```的请在全局环境安装```npx```(npx好处自己百度)
 ```
-npmx create TestBackEnd
+npmx Honeypot-exmd create TestBackEnd
 ```
 执行上面命令后会在当前目录下生成项目文件```TestBackEnd```
 **目录结构**
