@@ -5,13 +5,13 @@
 **安装**
 
 ```
-npm i -g Honeypot-exmd
+npm i -g honeypot-exmd
 ```
 
 **创建项目**
 
 ```
-Honeypot-exmd create TestBackEnd
+honeypot-exmd create TestBackEnd
 ```
 
 执行上面命令后会在当前目录下生成项目文件```TestBackEnd```
