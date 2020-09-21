@@ -1,20 +1,25 @@
-### Honeypot
-**描述**
-```Honeypot``` 是一款用nodejs编写的快速搭建后端框架的服务，有高效，易上手特点，文档支持全中文。
+### honeypot-exmd
 
-**开始上手**
+**描述**
+
+```honeypot-exmd``` 是一款用nodejs编写的快速搭建后端框架的服务，有高效，易上手特点，文档支持全中文。
 
 **安装**
+
 ```
 npm i -g Honeypot-exmd
 ```
+
 **创建项目**
+
 ```
 Honeypot-exmd create TestBackEnd
 ```
 
 执行上面命令后会在当前目录下生成项目文件```TestBackEnd```
+
 **目录结构**
+
 ```
 - auxiliary 辅助功能，该部分不会随着项目打包到生产环境
 - bin 脚本
@@ -26,7 +31,9 @@ Honeypot-exmd create TestBackEnd
 - router 地址路由配置，可以在这里面加api前缀
 - vo 视图层实体类，定义接收参数和返回参数，以及参数说明以供接口文档
 ```
+
 **运行模板项目**
+
 ```
 cd TestBackEnd
 npm install
@@ -34,17 +41,21 @@ npm run server
 ```
 
 **构建项目**
+
 ```
 npm run build
 ```
 
 **更新依赖库**
+
 ```
 npm run update:lib
 ```
 
 **运行项目辅助库**
+
 (该部分不会随着项目打包到生产环境)
+
 ```
 npm run swagger
 ```
