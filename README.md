@@ -1,21 +1,22 @@
-### honeypot-exmd
+### exmd-honeypot
 
-```honeypot-exmd``` 是一款用nodejs编写的快速搭建后端框架的服务，有高效，易上手特点，文档支持全中文。
+**描述**
 
-**安装**
+`Honeypot` 是一款用 nodejs 编写的快速搭建后端框架的服务，有高效，易上手特点，文档支持全中文。
+
+**架构设计**
+
+[https://www.processon.com/view/link/56e92797e4b064f66b773b5e](https://www.processon.com/view/link/56e92797e4b064f66b773b5e)
+密码: fS9I
+
+**开始上手**
+没有安装`npx`的请在全局环境安装`npx`(npx 好处自己百度)
 
 ```
-npm i -g honeypot-exmd
+npmx create TestBackEnd
 ```
 
-**创建项目**
-
-```
-honeypot-exmd create TestBackEnd
-```
-
-执行上面命令后会在当前目录下生成项目文件```TestBackEnd```
-
+执行上面命令后会在当前目录下生成项目文件`TestBackEnd`
 **目录结构**
 
 ```
@@ -51,7 +52,6 @@ npm run update:lib
 ```
 
 **运行项目辅助库**
-
 (该部分不会随着项目打包到生产环境)
 
 ```
